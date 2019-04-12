@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "backend"
+			"path": "mobile"
 		},
 		{
-			"path": "mobile"
+			"path": "functions"
 		}
 	],
 	"settings": {}
